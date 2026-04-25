@@ -130,14 +130,6 @@ When a pothole is detected, the system plays an audible beep sound to alert the 
 The system captures GPS coordinates when potholes are detected and stores them in MongoDB. These coordinates can be visualized on an interactive map using Leaflet.js, allowing users to see all detected potholes in their area.
 
 ---
-## 📷 Screenshots
-
-<p align="center">
-  <img src="/screenshots/screenshot1.png" alt="Dashboard View" width="340" />
-  <img src="/screenshots/screenshot2.png" alt="Map View" width="340" />
-</p>
-
----
 ## 🚀 How to Run
 
 ### Backend (FastAPI Server)
@@ -204,8 +196,3 @@ Make sure MongoDB is running on your system. By default, the application connect
 
 - **Rakhesh Krishna P** — rakheshkrishnap@gmail.com — [GitHub](https://github.com/rakheshkrishna2005)
 - **Mohnish K J** — mohnishkj@gmail.com — [GitHub](https://github.com/MohnishKJ)
-
----
-
-
-
